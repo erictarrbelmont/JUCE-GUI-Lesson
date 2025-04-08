@@ -33,6 +33,7 @@ private:
     GUILectureAudioProcessor&   audioProcessor;
     SharedImages*               m_pSharedImages;
     BigKnob                     bigKnob;
+    MediumKnob                  mediumKnob;
     VertSlider                  vertSlider;
     HitPads                     hitPads;
     WheelSlider                 wheelSlider;
